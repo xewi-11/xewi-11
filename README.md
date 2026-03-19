@@ -18,6 +18,12 @@
 
 <br>
 
+> 🚀 Este perfil está construido con **React + Vite**. Puedes ver y ejecutar la app con:
+> ```bash
+> npm install
+> npm run dev
+> ```
+
 <h2>🎯 Resumen</h2>
 
 🎓 <b>Educación Actual:</b> Máster en Desarrollo Web Full Stack y Multicloud en Tajamar.<br><br>
