@@ -19,9 +19,9 @@
 <h2>🎯 Resumen</h2>
 
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), en búsqueda activa para seguir expandiendo mis habilidades técnicas. <br><br>
-💼 <b>Experiencia:</b> Full Stack Web Developer en Ascentiel International S.L. (Mantenimiento, creación de páginas y desarrollo front/back de paneles web) .<br><br>
+💼 <b>Experiencia:</b> Full Stack Web Developer en Ascentiel International S.L. (Mantenimiento, creación de páginas y desarrollo front/back de paneles web).<br><br>
 🎓 <b>Educación Actual:</b> Máster en Desarrollo Full Stack + Arquitectura Cloud en Tajamar.<br><br>
-📜 📜 <b>Certificaciones:</b> Credencial Microsoft PL-400.
+📜 <b>Certificaciones:</b> Credencial Microsoft PL-400.
 
 <br>
 <hr>
@@ -29,7 +29,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), en búsqu
 <h2>🛠️ Stack Tecnológico</h2>
 
 <h3>Lenguajes</h3>
-<img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,python,php,cs,html,css">
+<img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,python,php,cs,dotnet,html,css">
 
 <br><br>
 
@@ -59,7 +59,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), en búsqu
 
 <h2>🎬 Proyectos</h2>
 <p>
-  Actualmente sigo desarrollando mis habilidades técnicas mediante proyectos prácticos, como mi Trabajo de Fin de Grado <b>BookCloud</b> (construido con Android, Stripe y Firebase). <br>
+  Actualmente sigo desarrollando mis habilidades técnicas mediante proyectos prácticos, como <b>BookCloud Web</b>, un marketplace completo de compraventa de libros desarrollado con <b>ASP.NET Core MVC (.NET 10), SQL Server, SignalR para chat en tiempo real y Stripe</b>. <br><br>
   <i>Nota: De momento no tengo despliegues web activos. Las demostraciones de mis proyectos y aplicaciones estarán disponibles próximamente en formato de vídeo.</i>
 </p>
 
