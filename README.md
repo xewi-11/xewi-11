@@ -18,10 +18,10 @@
 
 <h2>🎯 Resumen</h2>
 
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) [cite: 28, 38], en búsqueda activa para seguir expandiendo mis habilidades técnicas[cite: 31]. <br><br>
-💼 <b>Experiencia:</b> Full Stack Web Developer en Ascentiel International S.L. (Mantenimiento, creación de páginas y desarrollo front/back de paneles web) [cite: 7, 8, 10, 11, 12, 13].<br><br>
-🎓 <b>Educación Actual:</b> Máster en Desarrollo Full Stack + Arquitectura Cloud en Tajamar[cite: 34].<br><br>
-📜 <b>Certificaciones:</b> En preparación para Microsoft PL-400[cite: 36].
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), en búsqueda activa para seguir expandiendo mis habilidades técnicas. <br><br>
+💼 <b>Experiencia:</b> Full Stack Web Developer en Ascentiel International S.L. (Mantenimiento, creación de páginas y desarrollo front/back de paneles web) .<br><br>
+🎓 <b>Educación Actual:</b> Máster en Desarrollo Full Stack + Arquitectura Cloud en Tajamar.<br><br>
+📜 <b>Certificaciones:</b> En preparación para Microsoft PL-400.
 
 <br>
 <hr>
@@ -59,7 +59,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) [cite: 28,
 
 <h2>🎬 Proyectos</h2>
 <p>
-  Actualmente sigo desarrollando mis habilidades técnicas mediante proyectos prácticos, como mi Trabajo de Fin de Grado <b>BookCloud</b> (construido con Android, Stripe y Firebase)[cite: 31, 54, 56, 57, 58]. <br>
+  Actualmente sigo desarrollando mis habilidades técnicas mediante proyectos prácticos, como mi Trabajo de Fin de Grado <b>BookCloud</b> (construido con Android, Stripe y Firebase). <br>
   <i>Nota: De momento no tengo despliegues web activos. Las demostraciones de mis proyectos y aplicaciones estarán disponibles próximamente en formato de vídeo.</i>
 </p>
 
