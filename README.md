@@ -21,7 +21,7 @@
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), en búsqueda activa para seguir expandiendo mis habilidades técnicas. <br><br>
 💼 <b>Experiencia:</b> Full Stack Web Developer en Ascentiel International S.L. (Mantenimiento, creación de páginas y desarrollo front/back de paneles web) .<br><br>
 🎓 <b>Educación Actual:</b> Máster en Desarrollo Full Stack + Arquitectura Cloud en Tajamar.<br><br>
-📜 <b>Certificaciones:</b> En preparación para Microsoft PL-400.
+📜 📜 <b>Certificaciones:</b> Credencial Microsoft PL-400.
 
 <br>
 <hr>
